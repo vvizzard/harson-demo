@@ -1,0 +1,5 @@
+HARSON Group — démonstration du nouveau site
+
+Ouvrir index.html dans un navigateur (double-clic). Les autres pages sont accessibles par le menu.
+Version de démonstration : contenus partiels (9 réalisations), formulaire de contact sans envoi,
+espace d’administration non inclus. Connexion Internet conseillée (polices et carte).

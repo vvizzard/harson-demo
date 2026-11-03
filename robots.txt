@@ -1,0 +1,3 @@
+# Demonstration privee : aucune indexation souhaitee.
+User-agent: *
+Disallow: /
